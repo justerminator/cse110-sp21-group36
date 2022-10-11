@@ -9,7 +9,7 @@
 | --- | --- | --- |
 | Team Lead | Triston Babers |✅|
 | Team Lead | Meron Asfaw |❌|
-| Developer | Jiancheng Liang |❌|
+| Designer | Jiancheng Liang |❌|
 | Developer | Rappel Ricafort |❌|
 | Developer | Andrew Schade |❌|
 | Developer | Miko Brown |❌|
@@ -17,7 +17,7 @@
 | Developer | Thanh Phan |❌|
 | Developer | Justin Lau |❌|
 | Developer | Ettore Hidoux |❌|
-| Developer | Julia Le |❌|
+| Planner | Julia Le |❌|
 
 ## Meeting Agenda
  - Take Attendance
