@@ -9,6 +9,7 @@
 # Meet the Team!
 
 ## Triston Babers - Team Lead
+### [User Page](https://github.com/AdulisL/CSE110/blob/main/HW1/index.md)
 
 ## Meron Asfaw (he/him) - Team Lead
 
