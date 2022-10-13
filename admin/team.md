@@ -53,6 +53,6 @@
 ### [User Page](https://tngphvn.github.io/FA22_CSE110/)
 > Hi! I’m Thanh, a Developer for team Code Avengers. I am second year transfer student majoring in CS. I like to draw and try new foods when I am free. Hope you will enjoy our team project. Thanks!
 
-## Justin Lau - Developer
+## Justin Lau (he/him) - Developer
 ### [User Page](https://justerminator.github.io/CSE-110-Week-0-1/)
 > Hi! I'm Justin - a fourth year chemistry student with a minor in CS. I look forward to applying practical skills learned in my coursework to pursuing research! During my free time, I like walking my labradoodle Bao, paddleboarding, playing piano, and walking on trails.
