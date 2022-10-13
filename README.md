@@ -5,6 +5,8 @@
   
 **Also**: Justin needs everyone to link their personal gitHub page we made for the labs to the team page on gitHub and add a personal statement.
 
+*__Next Meeting__: (In-Person) West Geisel Oct 13 Thursday, 5pm*
+
 ### Working on Team Page:
 - Andrew
 - Justin
