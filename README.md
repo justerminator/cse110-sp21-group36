@@ -1,4 +1,4 @@
-# cse110-sp21-group36
+# 🌐 Code Avengers ⍟
 
 ## Team Agenda:
 **Important**: Everyone send an 8 second clip introducing yourself to the team to tbabers@ucsd.edu, so it can go in the team montage.  
