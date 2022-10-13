@@ -14,7 +14,7 @@
 > **FOR BRANDING: Branding, quotes, purpose, etc.**
 
 
-<center> # Meet the Team! </center>
+# Meet the Team!
 
 ## Triston Babers - Team Lead
 ### [User Page](https://tristonbabers.github.io/GitHubPages-Test/)
