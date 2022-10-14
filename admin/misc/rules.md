@@ -28,7 +28,7 @@ Team member info:
 * All members will be expected to read emails and Slack messages from everyone in the group on a daily basis and respond ***within 24 hours***.
 ​
 ### 3. Scheduling Meetings
-* Team will agree to meet weekly at ***[time,day TBD]*** to report upon their progress and discuss future tasks needed to be completed.
+* Team will agree to meet weekly at 5:00 PM on Thursday to report upon their progress and discuss future tasks needed to be completed.
 * Team members will suggest any topics/issues needed to be cover before the weekly meeting to the Team Leads.
 * Team Leads will create meeting slides detailing the agenda for that week prior to the weekly meetings.
   
